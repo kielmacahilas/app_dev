@@ -54,7 +54,7 @@ git commit -m "Update README with Markdown examples"
 - [x] Create the repository
 - [x] Create the `readme-edits` branch
 - [x] Update the README with Markdown
-- [ ] Review and merge the pull request
+- [x] Review and merge the pull request
 
 ---
 
